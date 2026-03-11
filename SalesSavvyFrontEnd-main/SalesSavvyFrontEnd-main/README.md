@@ -26,7 +26,6 @@ Frontend technologies used in this project:
 * **JavaScript (ES6+)**
 * **HTML5**
 * **CSS3**
-* **Bootstrap / Tailwind (if used)**
 * **Axios (for API calls)**
 
 ---
@@ -92,7 +91,7 @@ http://localhost:3000
 This frontend works with the SalesSavvy backend API.
 
 Backend Repository:
-(Add your backend GitHub link here)
+(https://github.com/Siddhib022/SalesSavvy/tree/main/SalesSavvyBackend-main)
 
 ---
 
@@ -101,6 +100,6 @@ Backend Repository:
 **Siddhi Bhosale**
 
 GitHub:
-[https://github.com/Siddhib022](https://github.com/Siddhib022)
+(https://github.com/Siddhib022)
 
 ---
