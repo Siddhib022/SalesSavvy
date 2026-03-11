@@ -93,7 +93,7 @@ or run from **Spring Tool Suite / IntelliJ**.
 The backend will start at:
 
 ```
-http://localhost:8080
+http://localhost:9090
 ```
 
 ---
@@ -112,7 +112,7 @@ http://localhost:8080
 # 🔗 Frontend Repository
 
 Frontend Repository:
-[https://github.com/Siddhib022/SalesSavvy](https://github.com/Siddhib022/SalesSavvy)
+(https://github.com/Siddhib022/SalesSavvy/tree/main/SalesSavvyFrontEnd-main)
 
 ---
 
