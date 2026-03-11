@@ -1,8 +1,3 @@
-You should write a **professional README** so recruiters or anyone visiting your GitHub understands your project quickly. A good README usually contains **Project description, features, tech stack, setup steps, and screenshots**. Many frontend repositories follow this structure to clearly explain the project and how to run it locally. ([GitHub][1])
-
-Below is a **complete README template** you can copy-paste and edit for your **SalesSavvy Frontend project**.
-
----
 
 # 🚀 SalesSavvy Frontend
 
@@ -101,30 +96,6 @@ Backend Repository:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-/screenshots
-   dashboard.png
-   login.png
-   customerpage.png
-```
-
----
-
-# 🌟 Future Improvements
-
-* Add role-based authentication
-* Improve UI/UX
-* Add analytics dashboard
-* Deploy full stack application
-
----
-
 # 👩‍💻 Author
 
 **Siddhi Bhosale**
@@ -133,8 +104,3 @@ GitHub:
 [https://github.com/Siddhib022](https://github.com/Siddhib022)
 
 ---
-
-💡 **Tip:**
-If you want, I can also make a **🔥 very professional README with badges, demo link, screenshots, and GIFs** so your GitHub project looks **strong for recruiters**.
-
-[1]: https://github.com/gaurav-bhadane/E-Commerce?utm_source=chatgpt.com "GitHub - gaurav-bhadane/E-Commerce: E-commerce project Frontend built with HTML, CSS, and JavaScript. It enables users to browse products, add them to a cart, and proceed to checkout seamlessly. The project aims to provide a user-friendly interface for an efficient shopping experience."
