@@ -9,11 +9,11 @@ The application allows users to manage customer records, track sales data, and i
 
 # 📌 Features
 
-✅ User-friendly interface
-✅ Customer management system
-✅ Add, update, and delete customer records
-✅ RESTful API integration
-✅ Responsive UI design
+✅ User-friendly interface,
+✅ Customer management system,
+✅ Add, update, and delete customer records,
+✅ RESTful API integration,
+✅ Responsive UI design,
 ✅ Full stack architecture
 
 ---
@@ -105,7 +105,7 @@ mvn spring-boot:run
 Backend will start on:
 
 ```
-http://localhost:8080
+http://localhost:9090
 ```
 
 ---
@@ -142,14 +142,6 @@ http://localhost:3000
 
 The frontend communicates with the backend using **REST APIs**.
 
-Example:
-
-```
-GET /customers
-POST /customers
-PUT /customers/{id}
-DELETE /customers/{id}
-```
 # 👩‍💻 Author
 
 **Siddhi Bhosale**
@@ -161,5 +153,3 @@ GitHub:
 
 ⭐ If you like this project, give it a **star** on GitHub.
 
-
-This will make your project look **like a real production project**, which helps in **placements and interviews**.
