@@ -25,7 +25,7 @@ Backend technologies used in this project:
 * **Spring Boot**
 * **Spring Data JPA**
 * **Hibernate**
-* **MySQL 
+* **MySQL** 
 * **Maven**
 * **REST API**
 
